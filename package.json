@@ -34,7 +34,7 @@
     "zod": "^3.23.8"
   },
   "dependencies": {
-    "@langchain/mistralai": "^0.0.26",
+    "@langchain/mistralai": "^0.2.3",
     "@qdrant/js-client-rest": "^1.10.1",
     "ai": "^5.0.116",
     "marked": "^9.1.0",
